@@ -9,7 +9,7 @@ In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iasta
 
 I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers University. Prior to my current role at Iowa State, I worked at [Intel](https://www.intel.com/) for 10 years as an engineer on NAND flash memory.
 
-[ORCiD profile 0000-0002-6292-8221](https://orcid.org/0000-0002-6292-8221)
+[ORCiD number 0000-0002-6292-8221](https://orcid.org/0000-0002-6292-8221)
 
 ## Publications
 * * *
