@@ -1,13 +1,13 @@
 # About Me
-I am the Engineering & Collection Analysis Librarian at Iowa State University in Ames, IA.
+I am the Engineering & Collection Analysis Librarian at [Iowa State University](https://www.iastate.edu/) in Ames, IA.
 
-In this role, I am subject specialist / liaison to two engineering departments on campus, providing research help and instruction.
+In this role, I am subject specialist / liaison to two [engineering](https://www.ece.iastate.edu/) [departments](https://www.imse.iastate.edu/) on campus, providing research help, instruction, collection development, and outreach.
 
-I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our outputs and monitoring publication patterns across campus. I use Web of Science, Dimensions, Altmetrics, Open Refine, Unsub, Python, pandas, R, and LaTeX in this work.
+I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our publications and to find patterns across campus. I use Web of Science, Dimensions, Altmetrics, Open Refine, Unsub, Python, pandas, R, and LaTeX to do this work.
 
-I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their Unsub data.
+In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their Unsub data.
 
-I hold a BS in Electrical Engineering from Iowa State, and an MLIS from Rutgers University. Prior to my current role at Iowa State, I worked at Intel for 10 years as an engineer on NAND flash memory.
+I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers University. Prior to my current role at Iowa State, I worked at [Intel](https://www.intel.com/) for 10 years as an engineer on NAND flash memory.
 
 [ORCiD profile 0000-0002-6292-8221](https://orcid.org/0000-0002-6292-8221)
 
