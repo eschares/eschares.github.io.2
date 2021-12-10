@@ -1,3 +1,3 @@
 # eschares.github.io
 
-Webpage to organize my scholarly outputs
+Webpage to organize my work.
