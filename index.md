@@ -40,7 +40,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 - **Schares, E.** (2018, June). ELD lightning talk: Adding electronics kits to the library’s circulating collection. American Society of Engineering Education, Engineering Libraries Division. Annual Conference, Salt Lake City, UT.
 
 
-## Organizations
+## Organizations I Work With
 * * *
 - [ASEE ELD](https://sites.asee.org/eld/)
 - [Information Power](https://www.informationpower.co.uk/1798-2/)
@@ -50,8 +50,8 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Honors and Awards
 * * *
-- Professional and Scientific Excellence Award (2021). Iowa State University Faculty and Staff Awards Ceremony.
-- [Eric Schares](https://universitymuseums.pubpub.org/pub/yen7pdo1), painting by Rose Frantzen (2016). University Museums, Iowa State University.
+- Professional and Scientific Excellence Award. (2021). Iowa State University Faculty and Staff Awards Ceremony.
+- [Eric Schares](https://universitymuseums.pubpub.org/pub/yen7pdo1), painting by Rose Frantzen. (2016). University Museums, Iowa State University.
 
 ## Other Profiles
 * * *
