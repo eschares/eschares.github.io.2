@@ -1,5 +1,6 @@
 # About Me
-I am the Engineering & Collection Analysis Librarian at Iowa State University in Ames, IA. I am the subject specialist / liason to two engineering departments on campus, and do data analysis of our collection and publication patterns on campus.
+I am the Engineering & Collection Analysis Librarian at Iowa State University in Ames, IA.
+I am subject specialist / liason to two engineering departments on campus, and also conduct bibliometric analysis of our collection and publication patterns on campus.
 I hold a BS in Electrical Engineering from Iowa State, and an MLIS from Rutgers University. Prior to returning to Iowa State, I worked as an engineer at Intel on NAND flash memory for 10 years.
 
 ## Publications
