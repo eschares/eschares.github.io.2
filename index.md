@@ -40,6 +40,11 @@ I hold a BS in Electrical Engineering from Iowa State, and an MLIS from Rutgers 
 - [OA2020](https://oa2020.org/)
 - [SPARC](https://sparcopen.org/)
 
+## Honors and Awards
+* * *
+- Professional and Scientific Excellence Award (2021). Iowa State University Faculty and Staff Awards Ceremony.
+- [Eric Schares](https://universitymuseums.pubpub.org/pub/yen7pdo1), painting by Rose Frantzen (2016). University Museums, Iowa State University.
+
 ## Profiles
 * * *
 - [Twitter](https://twitter.com/eschares)
