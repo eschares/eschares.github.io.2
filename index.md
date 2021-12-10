@@ -7,6 +7,8 @@ I created [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Pytho
 
 I hold a BS in Electrical Engineering from Iowa State, and an MLIS from Rutgers University. Prior to my current role at Iowa State, I worked as an engineer at Intel on NAND flash memory for 10 years.
 
+[ORCiD profile 0000-0002-6292-8221](https://orcid.org/0000-0002-6292-8221)
+
 ## Publications
 * * *
 - Schares, E. (2021, December). An easier way to access the Web of Science API. _OpenISU_. [https://doi.org/10.31274/b8136f97.a592e503](https://doi.org/10.31274/b8136f97.a592e503). [non-peer reviewed]
@@ -33,7 +35,7 @@ I hold a BS in Electrical Engineering from Iowa State, and an MLIS from Rutgers 
 - Schares, E. (2018, June). ELD lightning talk: Adding electronics kits to the library’s circulating collection. American Society of Engineering Education, Engineering Libraries Division. Annual Conference, Salt Lake City, UT.
 
 
-## Organizations I am involved in
+## Organizations
 * * *
 - [ASEE ELD](https://sites.asee.org/eld/)
 - [Information Power](https://www.informationpower.co.uk/1798-2/)
@@ -46,7 +48,7 @@ I hold a BS in Electrical Engineering from Iowa State, and an MLIS from Rutgers 
 - Professional and Scientific Excellence Award (2021). Iowa State University Faculty and Staff Awards Ceremony.
 - [Eric Schares](https://universitymuseums.pubpub.org/pub/yen7pdo1), painting by Rose Frantzen (2016). University Museums, Iowa State University.
 
-## Profiles
+## Other Profiles
 * * *
 - [Twitter](https://twitter.com/eschares)
 - [Github](https://github.com/eschares)
