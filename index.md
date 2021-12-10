@@ -7,7 +7,7 @@ I also help evaluate and support Iowa State's growing number of [Open Access agr
 
 I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their Unsub data.
 
-I hold a BS in Electrical Engineering from Iowa State, and an MLIS from Rutgers University. Prior to my current role at Iowa State, I worked as an engineer at Intel on NAND flash memory for 10 years.
+I hold a BS in Electrical Engineering from Iowa State, and an MLIS from Rutgers University. Prior to my current role at Iowa State, I worked at Intel for 10 years as an engineer on NAND flash memory.
 
 [ORCiD profile 0000-0002-6292-8221](https://orcid.org/0000-0002-6292-8221)
 
