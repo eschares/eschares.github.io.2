@@ -17,3 +17,9 @@ I hold a BS in Electrical Engineering from Iowa State, and an MLIS from Rutgers 
 - OA2020
 - Information Power
 - SPARC 
+
+## Profiles
+* * *
+- Github
+- ORCiD
+- Twitter
