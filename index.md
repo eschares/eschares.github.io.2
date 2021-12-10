@@ -9,8 +9,8 @@ I hold a BS in Electrical Engineering from Iowa State, and an MLIS from Rutgers 
 
 ## Publications
 * * *
-- Schares, E. (2021, December). An easier way to access the Web of Science API. _OpenISU_. https://doi.org/10.31274/b8136f97.a592e503. [non-peer reviewed]
-- Langham-Putrow, A., Li, Y., Nelson, C., Willmott, M., Price, J., and Schares, E. (2021, November). Data sources for analyzing open access offers from publishers. _SPARC Data Analysis Working Group_, https://sparcopen.org/our-work/negotiation-resources/data-analysis/data-sources-for-analyzing-open-access-offers-from-publishers/. [non-peer reviewed]
+- Schares, E. (2021, December). An easier way to access the Web of Science API. _OpenISU_. [https://doi.org/10.31274/b8136f97.a592e503](https://doi.org/10.31274/b8136f97.a592e503). [non-peer reviewed]
+- Langham-Putrow, A., Li, Y., Nelson, C., Willmott, M., Price, J., and Schares, E. (2021, November). Data sources for analyzing open access offers from publishers. _SPARC Data Analysis Working Group_, [https://sparcopen.org/our-work/negotiation-resources/data-analysis/data-sources-for-analyzing-open-access-offers-from-publishers/](https://sparcopen.org/our-work/negotiation-resources/data-analysis/data-sources-for-analyzing-open-access-offers-from-publishers/). [non-peer reviewed]
 - Schares, E. (2021, September). Unsub Extender: a Python-based web application for visualizing Unsub data. _arXiv preprint_, https://arxiv.org/abs/2109.00468. Currently under peer review.
 - Schares, E. (2021, May). Unsub Extender. https://unsubextender.lib.iastate.edu. _Software_. 1500+ hits from 32 unique countries.
 - Hornbuckle, B., Togliatti, K., Cirone, R., and Schares, E. (2020, June). Be a more productive writer with online LaTeX. _CSA News_, 65(6), 35-38. https://doi.org/10.1002/csan.20142. [non-peer reviewed]
