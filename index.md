@@ -3,7 +3,7 @@ I am the Engineering & Collection Analysis Librarian at [Iowa State University](
 
 In this role, I am subject specialist / liaison to [two](https://www.ece.iastate.edu/) engineering [departments](https://www.imse.iastate.edu/) on campus, providing research help, instruction, collection development, and outreach.
 
-I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our publications and to find patterns across campus. I use Web of Science, Dimensions, Altmetrics, Open Refine, Unsub, Python, pandas, R, and LaTeX to do this work.
+I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our academic publications and to find patterns across campus. I use Web of Science, Dimensions, Altmetrics, Open Refine, Unsub, Python, pandas, R, and LaTeX to do this work.
 
 In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data.
 
@@ -50,6 +50,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Honors and Awards
 * * *
+- Faculty and Staff Innovator. (2021). Iowa State University Student Innovation Center.
 - Professional and Scientific Excellence Award. (2021). Iowa State University Faculty and Staff Awards Ceremony.
 - [Eric Schares](https://universitymuseums.pubpub.org/pub/yen7pdo1), painting by Rose Frantzen. (2016). University Museums, Iowa State University.
 
