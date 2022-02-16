@@ -59,3 +59,4 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 - [Twitter](https://twitter.com/eschares)
 - [Github](https://github.com/eschares)
 - [ORCiD](https://orcid.org/0000-0002-6292-8221)
+- [Google Scholar](https://scholar.google.com/citations?user=OPB_YisAAAAJ&hl=en&oi=ao)
