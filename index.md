@@ -1,7 +1,7 @@
 # About Me
 I am the Engineering & Collection Analysis Librarian at [Iowa State University](https://www.iastate.edu/) in Ames, IA.
 
-In this role, I am subject specialist / liaison to [two](https://www.ece.iastate.edu/) engineering [departments](https://www.imse.iastate.edu/) on campus, providing research help, instruction, collection development, and outreach.
+In this role, I am subject specialist / liaison to [two](https://www.ece.iastate.edu/) engineering [departments](https://www.imse.iastate.edu/) on campus and Library Science, providing research help, instruction, collection development, and outreach.
 
 I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our academic publications and to find patterns across campus. I use Web of Science, Dimensions, Altmetrics, Open Refine, Unsub, Python, pandas, R, and LaTeX to do this work.
 
