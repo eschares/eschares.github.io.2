@@ -29,6 +29,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Presentations
 * * *
+- **Schares, E.** (2022, February 22 & 24). Unsub Extender with Eric Schares. Unsub Webinar Series, Virtual. [https://vimeo.com/680578098](https://vimeo.com/680578098) and [https://vimeo.com/681619823](https://vimeo.com/681619823).
 - **Schares, E.** (2021, November). Innovation Session: Unsub Extender. Charleston Library Conference, Hybrid: Charleston, SC and Virtual.
 - Over, S. and **Schares, E.** (2021, July). ELD Workshop: Getting Started with LaTeX and Overleaf. American Society of Engineering Education, Engineering Libraries Division. Annual Conference, Virtual.
 - **Schares, E.** (2021, July). ELD lightning talk: Introducing Unsub Extender. American Society of Engineering Education, Engineering Libraries Division. Annual Conference, Virtual.
