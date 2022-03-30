@@ -13,6 +13,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Publications
 * * *
+- Harris, J., Piwowar, H., **Schares, E.**, and Pope, B. (2022). Unsub in real life: Using Unsub as part of serials decisions and negotiations. The Serials Librarian. DOI: 10.1080/0361526X.2022.2019543.
 - **Schares, E.** (2021, December). An easier way to access the Web of Science API. _OpenISU_. [https://doi.org/10.31274/b8136f97.a592e503](https://doi.org/10.31274/b8136f97.a592e503).
 - Langham-Putrow, A., Li, Y., Nelson, C., Willmott, M., Price, J., and **Schares, E.** (2021, November). Data sources for analyzing open access offers from publishers. _SPARC Data Analysis Working Group_, [https://sparcopen.org/our-work/negotiation-resources/data-analysis/data-sources-for-analyzing-open-access-offers-from-publishers/](https://sparcopen.org/our-work/negotiation-resources/data-analysis/data-sources-for-analyzing-open-access-offers-from-publishers/).
 - **Schares, E.** (2021, September). Unsub Extender: a Python-based web application for visualizing Unsub data. _arXiv preprint_, [https://arxiv.org/abs/2109.00468](https://arxiv.org/abs/2109.00468). Currently under peer review.
