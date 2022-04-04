@@ -45,7 +45,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 ## Organizations I Work With
 * * *
 - [ASEE ELD](https://sites.asee.org/eld/)
-- [Information Power](https://www.informationpower.co.uk/1798-2/)
+- [Information Power](https://www.coalition-s.org/coalition-s-and-alpsp-publish-toolkit-to-foster-open-access-agreements/)
 - [ESAC](https://esac-initiative.org/)
 - [OA2020](https://oa2020.org/)
 - [SPARC](https://sparcopen.org/)
