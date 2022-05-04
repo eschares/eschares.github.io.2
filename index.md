@@ -3,7 +3,7 @@ I am the Engineering & Collection Analysis Librarian at [Iowa State University](
 
 In this role, I am subject specialist / liaison to [two](https://www.ece.iastate.edu/) engineering [departments](https://www.imse.iastate.edu/) on campus and Library Science, providing research help, instruction, collection development, and outreach.
 
-I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our academic publications and to find patterns across campus. I use Web of Science, Dimensions, Altmetrics, Open Refine, Unsub, Python, pandas, R, and LaTeX to do this work.
+I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our academic publications to find patterns across campus. I use Web of Science, Dimensions, Altmetrics, Open Refine, Unsub, Python, pandas, R, and LaTeX to do this work.
 
 In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data. It was honored with the 2022 RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award.
 
