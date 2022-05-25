@@ -52,6 +52,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Honors and Awards
 * * *
+- ASEE [ELD](https://sites.asee.org/eld/) Innovation in Access to Engineering Information Award for Unsub Extender. (2022). American Society for Engineering Education, Engineering Libraries Division.
 - RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award for Unsub Extender. (2022). ALA Reference and User Services Association, Emerging Technologies Section. 
 - Faculty and Staff Innovator. (2021). Iowa State University Student Innovation Center.
 - Professional and Scientific Excellence Award. (2021). Iowa State University Faculty and Staff Awards Ceremony.
