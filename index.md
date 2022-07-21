@@ -13,7 +13,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Publications
 * * *
-- **Schares, E.** (2022). Unsub Extender: A Python-based web application for visualizing Unsub data. _Quantitative Science Studies_, 3(3). [https://doi.org/10.1162/qss_a_00200](https://doi.org/10.1162/qss_a_00200)
+- **Schares, E.** (2022). Unsub Extender: A Python-based web application for visualizing Unsub data. _Quantitative Science Studies_, 3(3). [https://doi.org/10.1162/qss_a_00200](https://doi.org/10.1162/qss_a_00200).
 - Harris, J., Piwowar, H., **Schares, E.**, and Pope, B. (2022). Unsub in real life: Using Unsub as part of serials decisions and negotiations. _The Serials Librarian_. [https://doi.org/10.1080/0361526X.2022.2019543](https://dr.lib.iastate.edu/handle/20.500.12876/YvkAkVJz).
 - **Schares, E.** (2021, December). An easier way to access the Web of Science API. _OpenISU_. [https://doi.org/10.31274/b8136f97.a592e503](https://doi.org/10.31274/b8136f97.a592e503).
 - Langham-Putrow, A., Li, Y., Nelson, C., Willmott, M., Price, J., and **Schares, E.** (2021, November). Data sources for analyzing open access offers from publishers. _SPARC Data Analysis Working Group_, [https://sparcopen.org/our-work/negotiation-resources/data-analysis/data-sources-for-analyzing-open-access-offers-from-publishers/](https://sparcopen.org/our-work/negotiation-resources/data-analysis/data-sources-for-analyzing-open-access-offers-from-publishers/).
@@ -31,7 +31,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Presentations
 * * *
-- **Schares, E.** (2022, June). ELD lightning talk: Automating API calls with Python. _American Society of Engineering Education, Engineering Libraries Division_. Annual Conference, Minneapolis, MN. [https://osf.io/eypb3/](https://osf.io/eypb3/)
+- **Schares, E.** (2022, June). ELD lightning talk: Automating API calls with Python. _American Society of Engineering Education, Engineering Libraries Division_. Annual Conference, Minneapolis, MN. [https://osf.io/eypb3/](https://osf.io/eypb3/).
 - **Schares, E.** (2022, February 22 & 24). Unsub Extender with Eric Schares. _Unsub Webinar Series_, Virtual. [https://vimeo.com/680578098](https://vimeo.com/680578098) and [https://vimeo.com/681619823](https://vimeo.com/681619823).
 - **Schares, E.** (2021, November). Innovation Session: Unsub Extender. _Charleston Library Conference_, Hybrid: Charleston, SC and Virtual.
 - Over, S. and **Schares, E.** (2021, July). ELD Workshop: Getting Started with LaTeX and Overleaf. _American Society of Engineering Education, Engineering Libraries Division_. Annual Conference, Virtual.
