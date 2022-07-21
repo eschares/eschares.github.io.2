@@ -27,7 +27,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Software
 * * *
-- **Schares, E.** (2021, May). Unsub Extender. [https://unsubextender.lib.iastate.edu](https://unsubextender.lib.iastate.edu). 2000+ hits from 35 unique countries.
+- **Schares, E.** (2021, May). Unsub Extender. [https://unsubextender.lib.iastate.edu](https://unsubextender.lib.iastate.edu). 2500+ hits from 39 unique countries.
 
 ## Presentations
 * * *
