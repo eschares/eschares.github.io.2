@@ -31,16 +31,17 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Presentations
 * * *
-- **Schares, E.** (2022, February 22 & 24). Unsub Extender with Eric Schares. Unsub Webinar Series, Virtual. [https://vimeo.com/680578098](https://vimeo.com/680578098) and [https://vimeo.com/681619823](https://vimeo.com/681619823).
-- **Schares, E.** (2021, November). Innovation Session: Unsub Extender. Charleston Library Conference, Hybrid: Charleston, SC and Virtual.
-- Over, S. and **Schares, E.** (2021, July). ELD Workshop: Getting Started with LaTeX and Overleaf. American Society of Engineering Education, Engineering Libraries Division. Annual Conference, Virtual.
-- **Schares, E.** (2021, July). ELD lightning talk: Introducing Unsub Extender. American Society of Engineering Education, Engineering Libraries Division. Annual Conference, Virtual.
-- Piwowar, H., Harris, J., and **Schares, E.** (2021, May). Unsub in real life: Using Unsub as part of serials decisions and negotiations. NASIG 2021 Conference, Virtual. [https://youtu.be/7xuJsVivlXU](https://youtu.be/7xuJsVivlXU).
-- **Schares, E.** and Goddard, M. (2021, May). Behind the scenes of open access agreements. IPAL & ILA/ACRL Joint Conference, Virtual. [https://youtu.be/n1yLTd3yVRA](https://youtu.be/n1yLTd3yVRA).
+- **Schares, E.** (2022, June). ELD lightning talk: Automating API calls with Python. _American Society of Engineering Education, Engineering Libraries Division_. Annual Conference, Minneapolis, MN.
+- **Schares, E.** (2022, February 22 & 24). Unsub Extender with Eric Schares. _Unsub Webinar Series_, Virtual. [https://vimeo.com/680578098](https://vimeo.com/680578098) and [https://vimeo.com/681619823](https://vimeo.com/681619823).
+- **Schares, E.** (2021, November). Innovation Session: Unsub Extender. _Charleston Library Conference_, Hybrid: Charleston, SC and Virtual.
+- Over, S. and **Schares, E.** (2021, July). ELD Workshop: Getting Started with LaTeX and Overleaf. _American Society of Engineering Education, Engineering Libraries Division_. Annual Conference, Virtual.
+- **Schares, E.** (2021, July). ELD lightning talk: Introducing Unsub Extender. _American Society of Engineering Education, Engineering Libraries Division_. Annual Conference, Virtual.
+- Piwowar, H., Harris, J., and **Schares, E.** (2021, May). Unsub in real life: Using Unsub as part of serials decisions and negotiations. _NASIG 2021 Conference_, Virtual. [https://youtu.be/7xuJsVivlXU](https://youtu.be/7xuJsVivlXU).
+- **Schares, E.** and Goddard, M. (2021, May). Behind the scenes of open access agreements. _IPAL & ILA/ACRL Joint Conference_, Virtual. [https://youtu.be/n1yLTd3yVRA](https://youtu.be/n1yLTd3yVRA).
 - Willmott, M. and **Schares, E.** (2021, February). Publication and financial data gathering: An analysis for strategic considerations of OA and transformative agreements. OA2020 US Working Group and Community of Practice, Virtual.
-- **Schares, E.** (2020, June). ELD lightning talk: Overleaf over time. American Society of Engineering Education, Engineering Libraries Division. Annual Conference, Virtual.
-- **Schares, E.** (2019, April). Lightning talk: Adding electronics kits to the library’s circulating collection. STEM Librarians Unite! Drake University, Des Moines, IA.
-- **Schares, E.** (2018, June). ELD lightning talk: Adding electronics kits to the library’s circulating collection. American Society of Engineering Education, Engineering Libraries Division. Annual Conference, Salt Lake City, UT.
+- **Schares, E.** (2020, June). ELD lightning talk: Overleaf over time. _American Society of Engineering Education, Engineering Libraries Division_. Annual Conference, Virtual.
+- **Schares, E.** (2019, April). Lightning talk: Adding electronics kits to the library’s circulating collection. _STEM Librarians Unite!_ Drake University, Des Moines, IA.
+- **Schares, E.** (2018, June). ELD lightning talk: Adding electronics kits to the library’s circulating collection. _American Society of Engineering Education, Engineering Libraries Division_. Annual Conference, Salt Lake City, UT.
 
 
 ## Organizations I Work With
