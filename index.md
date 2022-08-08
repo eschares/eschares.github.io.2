@@ -43,14 +43,10 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 - **Schares, E.** (2019, April). Lightning talk: Adding electronics kits to the library’s circulating collection. _STEM Librarians Unite!_ Drake University, Des Moines, IA.
 - **Schares, E.** (2018, June). ELD lightning talk: Adding electronics kits to the library’s circulating collection. _American Society of Engineering Education, Engineering Libraries Division_. Annual Conference, Salt Lake City, UT.
 
-
-## Organizations I Work With
+## Workshops
 * * *
-- [ASEE ELD](https://sites.asee.org/eld/)
-- [Information Power](https://www.coalition-s.org/coalition-s-and-alpsp-publish-toolkit-to-foster-open-access-agreements/)
-- [ESAC](https://esac-initiative.org/)
-- [OA2020](https://oa2020.org/)
-- [SPARC](https://sparcopen.org/)
+- Science of Science Summer School [(S4)](https://s4.scienceofscience.org/). Syracuse University. August 1-12, 2022. Live course, online.
+- CWTS Bibliometrics and Scientometrics for Research Evaluation. [Leiden University Center for Science and Technology](https://www.cwts.nl/about-cwts), Netherlands. November 15-18, 2021. Live course, online
 
 ## Honors and Awards
 * * *
@@ -59,6 +55,14 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 - Faculty and Staff [Innovator](https://sictr.iastate.edu/innovation-fellows-program/meet-our-innovators/#1643045406529-b75314b2-56cb). (2021). Iowa State University Student Innovation Center.
 - Professional and Scientific Excellence [Award](https://www.provost.iastate.edu/faculty-success/awards/university/staff-awards/professional-and-scientific). (2021). Iowa State University Faculty and Staff Awards Ceremony.
 - [Eric Schares](https://universitymuseums.pubpub.org/pub/yen7pdo1), painting by Rose Frantzen. (2016). University Museums, Iowa State University.
+
+## Organizations I Work With
+* * *
+- [ASEE ELD](https://sites.asee.org/eld/)
+- [Information Power](https://www.coalition-s.org/coalition-s-and-alpsp-publish-toolkit-to-foster-open-access-agreements/)
+- [ESAC](https://esac-initiative.org/)
+- [OA2020](https://oa2020.org/)
+- [SPARC](https://sparcopen.org/)
 
 ## Other Profiles
 * * *
