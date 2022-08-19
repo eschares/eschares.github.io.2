@@ -5,7 +5,8 @@ In this role, I am subject specialist / liaison to [two](https://www.ece.iastate
 
 I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our academic publications to find patterns across campus. I use Web of Science, Dimensions, Altmetrics, Open Refine, Unsub, Python, pandas, R, and LaTeX to do this work.
 
-In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data. It was honored with the 2022 RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award and the 2022 ASEE ELD [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation).
+In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data. I published a paper on it in _Quantitative Science Studies_, [https://doi.org/10.1162/qss_a_00200](https://doi.org/10.1162/qss_a_00200).
+It was honored with the 2022 RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award and the 2022 ASEE ELD [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation). 
 
 I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers University. Prior to my current role at Iowa State, I worked at [Intel](https://www.intel.com/) for 10 years as an engineer on NAND flash memory.
 
