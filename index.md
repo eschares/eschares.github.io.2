@@ -13,11 +13,12 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Publications
 * * *
+- **Schares, E.** (2022, October). Impact of the 2022 OSTP Memo: A Bibliometric Analysis of U.S. Federally Funded Publications, 2017-2021. _arXiv preprint_, [https://arxiv.org/abs/2210.14871](https://arxiv.org/abs/2210.14871). Currently under peer review.
 - **Schares, E.** (2022). Unsub Extender: A Python-based web application for visualizing Unsub data. _Quantitative Science Studies_, 3(3). [https://doi.org/10.1162/qss_a_00200](https://doi.org/10.1162/qss_a_00200).
 - Harris, J., Piwowar, H., **Schares, E.**, and Pope, B. (2022). Unsub in real life: Using Unsub as part of serials decisions and negotiations. _The Serials Librarian_. [https://doi.org/10.1080/0361526X.2022.2019543](https://dr.lib.iastate.edu/handle/20.500.12876/YvkAkVJz).
 - **Schares, E.** (2021, December). An easier way to access the Web of Science API. _OpenISU_. [https://doi.org/10.31274/b8136f97.a592e503](https://doi.org/10.31274/b8136f97.a592e503).
 - Langham-Putrow, A., Li, Y., Nelson, C., Willmott, M., Price, J., and **Schares, E.** (2021, November). Data sources for analyzing open access offers from publishers. _SPARC Data Analysis Working Group_, [https://sparcopen.org/our-work/negotiation-resources/data-analysis/data-sources-for-analyzing-open-access-offers-from-publishers/](https://sparcopen.org/our-work/negotiation-resources/data-analysis/data-sources-for-analyzing-open-access-offers-from-publishers/).
-- **Schares, E.** (2021, September). Unsub Extender: a Python-based web application for visualizing Unsub data. _arXiv preprint_, [https://arxiv.org/abs/2109.00468](https://arxiv.org/abs/2109.00468). Currently under peer review.
+- **Schares, E.** (2021, September). Unsub Extender: a Python-based web application for visualizing Unsub data. _arXiv preprint_, [https://arxiv.org/abs/2109.00468](https://arxiv.org/abs/2109.00468).
 - Hornbuckle, B., Togliatti, K., Cirone, R., and **Schares, E.** (2020, June). Be a more productive writer with online LaTeX. _CSA News_, 65(6), 35-38. [https://doi.org/10.1002/csan.20142](https://dr.lib.iastate.edu/handle/20.500.12876/96799).
 - **Schares, E.** (2019). ILL communication: Analyzing five years of Iowa State University’s print Interlibrary Loan requests. _ASEE Annual Conference and Exposition_, Tampa, FL. [https://dr.lib.iastate.edu/handle/20.500.12876/62335](https://dr.lib.iastate.edu/handle/20.500.12876/62335)
 - Evans, P. and **Schares, E.** (2017). FLEx – Iowa State University’s mobile technology classroom.  _ASEE Annual Conference and Exposition_, Columbus, OH. [https://dr.lib.iastate.edu/handle/20.500.12876/62327](https://dr.lib.iastate.edu/handle/20.500.12876/62327)
@@ -27,6 +28,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Software
 * * *
+- **Schares, E.** (2022, October). OSTP Impact. [https://bit.ly/qss-ostp](https://bit.ly/qss-ostp). Supplemental site with interactive graphs.
 - **Schares, E.** (2021, May). Unsub Extender. [https://unsubextender.lib.iastate.edu](https://unsubextender.lib.iastate.edu). 2500+ hits from 39 unique countries.
 
 ## Presentations
