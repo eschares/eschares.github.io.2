@@ -28,8 +28,8 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Software
 * * *
-- **Schares, E.** (2022, October). OSTP Impact. [https://ostp.lib.iastate.edu](https://ostp.lib.iastate.edu). Supplemental site with interactive graphs.
-- **Schares, E.** (2021, May). Unsub Extender. [https://unsubextender.lib.iastate.edu](https://unsubextender.lib.iastate.edu). 2500+ hits from 39 unique countries.
+- **Schares, E.** (2022, October). OSTP Impact. [https://ostp.lib.iastate.edu](https://ostp.lib.iastate.edu). Supplemental site with interactive versions of graphs from the journal article. 1000+ hits from 18 countries.
+- **Schares, E.** (2021, May). Unsub Extender. [https://unsubextender.lib.iastate.edu](https://unsubextender.lib.iastate.edu). 3000+ hits from 39 unique countries.
 
 ## Presentations
 * * *
