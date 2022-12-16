@@ -1,11 +1,11 @@
 # About Me
 I am the Engineering & Collection Analysis Librarian at [Iowa State University](https://www.iastate.edu/) in Ames, IA.
 
-In this role, I am subject specialist / liaison to [two](https://www.ece.iastate.edu/) engineering [departments](https://www.imse.iastate.edu/) on campus, providing [research help](https://instr.iastate.libguides.com/prf.php?account_id=55135), [instruction](https://instr.iastate.libguides.com/latex), collection development, and outreach.
+In this role, I am subject specialist / liaison to [three](https://www.ece.iastate.edu/) [engineering](https://www.mse.iastate.edu/) [departments](https://www.imse.iastate.edu/) on campus, providing [research help](https://instr.iastate.libguides.com/prf.php?account_id=55135), [instruction](https://instr.iastate.libguides.com/latex), collection development, and outreach.
 
-I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our academic publications to find patterns across campus. I use Web of Science, Dimensions, Altmetrics, Open Refine, Unsub, Python, pandas, R, and LaTeX to do this work.
+I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our academic publications to find patterns across campus. I use Dimensions, Web of Science, Altmetrics, Open Refine, Unsub, OpenAlex, Python, pandas, R, and LaTeX to do this work.
 
-I recently wrote a study on the impact of the recently updated OSTP guidance, which will make U.S. federally funded research publicly available. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of the graphs from the study. The preprint is currently under peer review.
+I recently conducted a study on the impact of the recently updated OSTP guidance, which will make U.S. federally funded research publicly available. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of the graphs from the study. The preprint is currently under peer review.
 
 In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data. I published a paper on it in [_Quantitative Science Studies_](https://doi.org/10.1162/qss_a_00200), and the project was honored with the 2022 RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award and the 2022 ASEE ELD [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation). 
 
