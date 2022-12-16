@@ -5,7 +5,7 @@ In this role, I am subject specialist / liaison to [two](https://www.ece.iastate
 
 I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our academic publications to find patterns across campus. I use Web of Science, Dimensions, Altmetrics, Open Refine, Unsub, Python, pandas, R, and LaTeX to do this work.
 
-I currently have a preprint on the impact of the recently updated OSTP guidance, which will make U.S. federally funded research publicly available. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of the graphs from the study. The preprint is currently under peer review.
+I recently wrote a study on the impact of the recently updated OSTP guidance, which will make U.S. federally funded research publicly available. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of the graphs from the study. The preprint is currently under peer review.
 
 In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data. I published a paper on it in [_Quantitative Science Studies_](https://doi.org/10.1162/qss_a_00200), and the project was honored with the 2022 RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award and the 2022 ASEE ELD [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation). 
 
@@ -30,8 +30,8 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Software
 * * *
-- **Schares, E.** (2022, October). OSTP Impact. [https://ostp.lib.iastate.edu](https://ostp.lib.iastate.edu). Supplemental site with interactive versions of graphs from the journal article. 1000+ hits from 18 countries.
-- **Schares, E.** (2021, May). Unsub Extender. [https://unsubextender.lib.iastate.edu](https://unsubextender.lib.iastate.edu). 3000+ hits from 39 unique countries.
+- **Schares, E.** (2022, October). OSTP Impact. [https://ostp.lib.iastate.edu](https://ostp.lib.iastate.edu). Supplemental site with interactive versions of graphs from the journal article. 1500+ hits from 18 countries.
+- **Schares, E.** (2021, May). Unsub Extender. [https://unsubextender.lib.iastate.edu](https://unsubextender.lib.iastate.edu). 3000+ hits from 42 unique countries.
 
 ## Presentations
 * * *
