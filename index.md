@@ -36,6 +36,8 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Presentations
 * * *
+- **Schares, E.** (2022, Oct). Lightning Talk: Unsub Extender. _LIS-Bibliometrics Conference 2022: Measuring What Matters_. Virtual.
+- **Schares, E.** (2022, Oct). Analyzing reference data in OpenAlex. _Workshop on Open Citations and Open Scholarly Metadata 2022_. [https://www.youtube.com/watch?v=ftTlXAD-wYo](https://www.youtube.com/watch?v=ftTlXAD-wYo) and [https://doi.org/10.5281/zenodo.7120704](https://doi.org/10.5281/zenodo.7120704).
 - **Schares, E.** (2022, June). ELD lightning talk: Automating API calls with Python. _American Society of Engineering Education, Engineering Libraries Division_. Annual Conference, Minneapolis, MN. [https://osf.io/eypb3/](https://osf.io/eypb3/).
 - **Schares, E.** (2022, February 22 & 24). Unsub Extender with Eric Schares. _Unsub Webinar Series_, Virtual. [https://vimeo.com/680578098](https://vimeo.com/680578098) and [https://vimeo.com/681619823](https://vimeo.com/681619823).
 - **Schares, E.** (2021, November). Innovation Session: Unsub Extender. _Charleston Library Conference_, Hybrid: Charleston, SC and Virtual.
