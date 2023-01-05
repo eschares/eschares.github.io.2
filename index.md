@@ -5,11 +5,11 @@ In this role, I am subject specialist / liaison to [three](https://www.ece.iasta
 
 I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our academic publications to find patterns across campus. I use Dimensions, Web of Science, Altmetrics, Open Refine, Unsub, OpenAlex, Python, pandas, R, and LaTeX to do this work.
 
-I recently conducted a study on the impact of the recently updated OSTP guidance, which will make U.S. federally funded research publicly available. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of the graphs from the study. The preprint is currently under peer review.
+In 2022, I conducted a [study](https://doi.org/10.1162/qss_a_00237) on the impact of the recently updated OSTP guidance, which will make U.S. federally funded research publicly available by 2026. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of each graph from the article, allowing users to pan, zoom, hover, and explore the data more thoroughly.
 
-In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data. I published a paper on it in [_Quantitative Science Studies_](https://doi.org/10.1162/qss_a_00200), and the project was honored with the 2022 RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award and the 2022 ASEE ELD [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation). 
+In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data. I published a [paper](https://doi.org/10.1162/qss_a_00200), and the project was honored with the 2022 RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award and the 2022 ASEE ELD [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation). 
 
-I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers University. Prior to my current role at Iowa State, I worked at [Intel](https://www.intel.com/) for 10 years as an engineer on NAND flash memory.
+I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers University. Prior to my current role at Iowa State, I worked at [Intel](https://www.intel.com/) for 10 years as an array reliability engineer on NAND flash memory.
 
 [ORCiD number 0000-0002-6292-8221](https://orcid.org/0000-0002-6292-8221)
 
