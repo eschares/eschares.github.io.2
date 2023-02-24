@@ -36,6 +36,8 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Presentations
 * * *
+- **Schares, E.** (2023, Feb). Guest Lecture: LS 502 - Research Methods. _University of Alabama School of Library and Information Studies_. Virtual.
+- **Schares, E.** (2023, Feb). Impact of the 2022 OSTP Memo. _Open Scholar Cafe_. Virtual.- 
 - **Schares, E.** (2022, Oct). Lightning Talk: Unsub Extender. _LIS-Bibliometrics Conference 2022: Measuring What Matters_. Virtual.
 - **Schares, E.** (2022, Oct). Analyzing reference data in OpenAlex. _Workshop on Open Citations and Open Scholarly Metadata 2022_. [https://www.youtube.com/watch?v=ftTlXAD-wYo](https://www.youtube.com/watch?v=ftTlXAD-wYo) and [https://doi.org/10.5281/zenodo.7120704](https://doi.org/10.5281/zenodo.7120704).
 - **Schares, E.** (2022, June). ELD lightning talk: Automating API calls with Python. _American Society of Engineering Education, Engineering Libraries Division_. Annual Conference, Minneapolis, MN. [https://osf.io/eypb3/](https://osf.io/eypb3/).
