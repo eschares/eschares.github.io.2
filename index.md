@@ -15,7 +15,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Publications
 * * *
-- **Schares, E.** (2023). Impact of the 2022 OSTP Memo: A Bibliometric Analysis of U.S. Federally Funded Publications, 2017-2021. _Quantitative Science Studies_, [https://doi.org/10.1162/qss_a_00237](https://doi.org/10.1162/qss_a_00237).
+- **Schares, E.** (2023). Impact of the 2022 OSTP Memo: A Bibliometric Analysis of U.S. Federally Funded Publications, 2017-2021. _Quantitative Science Studies_, 4(1): 1-21. [https://doi.org/10.1162/qss_a_00237](https://doi.org/10.1162/qss_a_00237).
 - **Schares, E.** (2022, October). Impact of the 2022 OSTP Memo: A Bibliometric Analysis of U.S. Federally Funded Publications, 2017-2021. _arXiv preprint_, [https://arxiv.org/abs/2210.14871](https://arxiv.org/abs/2210.14871).
 - **Schares, E.** (2022). Unsub Extender: A Python-based web application for visualizing Unsub data. _Quantitative Science Studies_, 3(3). [https://doi.org/10.1162/qss_a_00200](https://doi.org/10.1162/qss_a_00200).
 - Harris, J., Piwowar, H., **Schares, E.**, and Pope, B. (2022). Unsub in real life: Using Unsub as part of serials decisions and negotiations. _The Serials Librarian_. [https://doi.org/10.1080/0361526X.2022.2019543](https://dr.lib.iastate.edu/handle/20.500.12876/YvkAkVJz).
@@ -36,6 +36,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Presentations
 * * *
+- **Schares, E.** and O'Reilly, S. (2023, April 6). Impact of the OSTP memo: The current state of U.S. federally funded research and how universities can prepare for a more open future. _ACRL / CHOICE webinar_, Virtual. [https://www.youtube.com/watch?v=58FVVQaDtrA](https://www.youtube.com/watch?v=58FVVQaDtrA).
 - **Schares, E.** (2023, Feb). Guest Lecture: LS 502 - Research Methods. _University of Alabama School of Library and Information Studies_. Virtual.
 - **Schares, E.** (2023, Feb). Impact of the 2022 OSTP Memo. _Open Scholar Cafe_. Virtual.
 - **Schares, E.** (2022, Oct). Lightning Talk: Unsub Extender. _LIS-Bibliometrics Conference 2022: Measuring What Matters_. Virtual.
