@@ -27,7 +27,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 - Evans, P. and **Schares, E.** (2017). FLEx – Iowa State University’s mobile technology classroom.  _ASEE Annual Conference and Exposition_, Columbus, OH. [https://dr.lib.iastate.edu/handle/20.500.12876/62327](https://dr.lib.iastate.edu/handle/20.500.12876/62327)
 - Mielke, N., Marquart, T., Ning, W., Kessenich, J., Belgal, H., **Schares, E.**, . . . Nevill, L. R. (2008, April 27 - May 1). Bit error rate in NAND Flash memories. Paper presented at the Reliability Physics Symposium, 2008. _IRPS 2008_. IEEE International. [http://dx.doi.org/10.1109/RELPHY.2008.4558857](http://dx.doi.org/10.1109/RELPHY.2008.4558857)
 - Stieler, D., Dalal, V. L., Muthukrishnan, K., Noack, M., & **Schares, E.** (2006). Electron mobility in nanocrystalline silicon devices. _Journal of Applied Physics_, 100(3), 036106. [http://dx.doi.org/10.1063/1.2234545](https://dr.lib.iastate.edu/handle/20.500.12876/20957)
-- Outside Iowa State (2022-2016). April Fools' Day Joke Newsletter, University Library. [http://outsideiowastate.weebly.com/](http://outsideiowastate.weebly.com/)
+- Outside Iowa State (2016-2022). April Fools' Day Joke Newsletter, University Library. [http://outsideiowastate.weebly.com/](http://outsideiowastate.weebly.com/)
 
 ## Software
 * * *
