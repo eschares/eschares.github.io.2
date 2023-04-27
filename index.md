@@ -36,6 +36,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Presentations
 * * *
+- **Schares, E.** and Lair, S. (2023, April 27). Attempting to make sense of the OSTP memo. _LyrOpen Fair 2023_, Virtual.
 - **Schares, E.** and O'Reilly, S. (2023, April 6). Impact of the OSTP memo: The current state of U.S. federally funded research and how universities can prepare for a more open future. _ACRL / CHOICE webinar_, Virtual. [https://www.youtube.com/watch?v=58FVVQaDtrA](https://www.youtube.com/watch?v=58FVVQaDtrA).
 - **Schares, E.** (2023, Feb). Guest Lecture: LS 502 - Research Methods. _University of Alabama School of Library and Information Studies_. Virtual.
 - **Schares, E.** (2023, Feb). Impact of the 2022 OSTP Memo. _Open Scholar Cafe_. Virtual.
