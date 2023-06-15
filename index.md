@@ -14,7 +14,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 [ORCiD number 0000-0002-6292-8221](https://orcid.org/0000-0002-6292-8221)
 
 ## Consulting
-***
+
 I'm happy to offer [consulting](mailto:scharesdatascience@gmail.com) work through [Schares Data Science](https://scharesdatascience.weebly.com/) for academic libraries or publishers who wish to better understand their data.
 
 ## Publications
