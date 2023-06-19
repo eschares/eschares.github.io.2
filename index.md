@@ -15,7 +15,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Consulting
 
-I'm happy to offer [consulting](mailto:scharesdatascience@gmail.com) work through [Schares Data Science](http://www.scharesdatascience.com/) for academic libraries or publishers who wish to better understand their data.
+I'm happy to offer [consulting](mailto:scharesdatascience@gmail.com) work through [Schares Data Science](https://www.scharesdatascience.com/) for academic libraries or publishers who wish to better understand their data.
 
 ## Publications
 * * *
