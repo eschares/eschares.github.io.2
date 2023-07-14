@@ -19,6 +19,7 @@ I'm happy to offer [consulting](mailto:scharesdatascience@gmail.com) work throug
 
 ## Publications
 * * *
+- **Schares, E.** (2023, July). Benefits of Reading Open Peer Reviews. _OpenISU_. [https://doi.org/10.31274/b8136f97.85fb1123](https://doi.org/10.31274/b8136f97.85fb1123).
 - **Schares, E.** (2023). Impact of the 2022 OSTP Memo: A Bibliometric Analysis of U.S. Federally Funded Publications, 2017-2021. _Quantitative Science Studies_, 4(1): 1-21. [https://doi.org/10.1162/qss_a_00237](https://doi.org/10.1162/qss_a_00237).
 - **Schares, E.** (2022, October). Impact of the 2022 OSTP Memo: A Bibliometric Analysis of U.S. Federally Funded Publications, 2017-2021. _arXiv preprint_, [https://arxiv.org/abs/2210.14871](https://arxiv.org/abs/2210.14871).
 - **Schares, E.** (2022). Unsub Extender: A Python-based web application for visualizing Unsub data. _Quantitative Science Studies_, 3(3). [https://doi.org/10.1162/qss_a_00200](https://doi.org/10.1162/qss_a_00200).
