@@ -70,17 +70,17 @@ I'm happy to offer [consulting](mailto:scharesdatascience@gmail.com) work throug
 * * *
 - ASEE [ELD](https://sites.asee.org/eld/about-the-eld/awards/#innovation) Innovation in Access to Engineering Information Award for Unsub Extender. (2022). American Society for Engineering Education, Engineering Libraries Division.
 - RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award for Unsub Extender. (2022). ALA Reference and User Services Association, Emerging Technologies Section. 
-- Faculty and Staff [Innovator](https://sictr.iastate.edu/innovation-fellows-program/meet-our-innovators/#1643045406529-b75314b2-56cb). (2021). Iowa State University Student Innovation Center.
+- Faculty and Staff Innovator. (2021). Iowa State University Student Innovation Center.
 - Professional and Scientific Excellence [Award](https://www.provost.iastate.edu/faculty-success/awards/university/staff-awards/professional-and-scientific). (2021). Iowa State University Faculty and Staff Awards Ceremony.
 - [Eric Schares](https://universitymuseums.pubpub.org/pub/yen7pdo1), painting by Rose Frantzen. (2016). University Museums, Iowa State University.
 
 ## Organizations I Work With
 * * *
 - [ASEE ELD](https://sites.asee.org/eld/)
-- [Information Power](https://www.coalition-s.org/coalition-s-and-alpsp-publish-toolkit-to-foster-open-access-agreements/)
 - [ESAC](https://esac-initiative.org/)
 - [OA2020](https://oa2020.org/)
 - [SPARC](https://sparcopen.org/)
+- [Information Power](https://www.coalition-s.org/coalition-s-and-alpsp-publish-toolkit-to-foster-open-access-agreements/)
 
 ## Other Profiles
 * * *
