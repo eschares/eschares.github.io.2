@@ -15,10 +15,11 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Consulting
 
-I'm happy to offer [consulting](mailto:scharesdatascience@gmail.com) work through [Schares Data Science](https://www.scharesdatascience.com/) for academic libraries or publishers who wish to better understand their data.
+I'm also happy to offer [consulting](mailto:scharesdatascience@gmail.com) work through [Schares Data Science](https://www.scharesdatascience.com/) for academic libraries or publishers who wish to better understand their data.
 
 ## Publications
 * * *
+- **Schares, E.** (2023, October). When Is a Year Complete? _OpenISU_. [https://doi.org/10.31274/b8136f97.64082876](https://doi.org/10.31274/b8136f97.64082876).
 - **Schares, E.** and Mierz, S. (2023). Using OpenAlex to analyse cited reference patterns [preprint]. _27th International Conference on Science, Technology, and Innovation Indicators (STI 2023)_. [https://dapp.orvium.io/deposits/6441a6ee36d64a64fca6d6db/view](https://dapp.orvium.io/deposits/6441a6ee36d64a64fca6d6db/view)
 - **Schares, E.** (2023, July). Benefits of Reading Open Peer Reviews. _OpenISU_. [https://doi.org/10.31274/b8136f97.85fb1123](https://doi.org/10.31274/b8136f97.85fb1123).
 - **Schares, E.** (2023). Impact of the 2022 OSTP Memo: A Bibliometric Analysis of U.S. Federally Funded Publications, 2017-2021. _Quantitative Science Studies_, 4(1): 1-21. [https://doi.org/10.1162/qss_a_00237](https://doi.org/10.1162/qss_a_00237).
@@ -42,11 +43,12 @@ I'm happy to offer [consulting](mailto:scharesdatascience@gmail.com) work throug
 
 ## Presentations
 * * *
+- **Schares, E.** (2023, Oct). Guest Lecture: Impact of the OSTP Memo. LS 502 - Research Methods. _University of Alabama School of Library and Information Studies_. Virtual.
 - Polka, J., **Schares, E.**, and Kaltenbrunner, W. (2023, Sept 7). Panel on Open Peer Review. _Charleston In Between_. Virtual.
 - **Schares, E.** (2023, May 10). HHS Briefing. _Taylor & Francis internal meeting_. Virtual.
 - **Schares, E.** and Lair, S. (2023, April). Attempting to make sense of the OSTP memo. _LyrOpen Fair 2023_, Virtual. [https://lyrasis.aviaryplatform.com/r/kd1qf8kr4q](https://lyrasis.aviaryplatform.com/r/kd1qf8kr4q).
 - **Schares, E.** and O'Reilly, S. (2023, April). Impact of the OSTP memo: The current state of U.S. federally funded research and how universities can prepare for a more open future. _ACRL / CHOICE webinar_, Virtual. [https://www.youtube.com/watch?v=58FVVQaDtrA](https://www.youtube.com/watch?v=58FVVQaDtrA).
-- **Schares, E.** (2023, Feb). Guest Lecture: LS 502 - Research Methods. _University of Alabama School of Library and Information Studies_. Virtual.
+- **Schares, E.** (2023, Feb). Guest Lecture: Impact of the OSTP Memo. LS 502 - Research Methods. _University of Alabama School of Library and Information Studies_. Virtual.
 - **Schares, E.** (2023, Feb). Impact of the 2022 OSTP Memo. _Open Scholar Cafe_. Virtual.
 - **Schares, E.** (2022, Oct). Lightning Talk: Unsub Extender. _LIS-Bibliometrics Conference 2022: Measuring What Matters_. Virtual.
 - **Schares, E.** (2022, Oct). Analyzing reference data in OpenAlex. _Workshop on Open Citations and Open Scholarly Metadata 2022_. [https://www.youtube.com/watch?v=ftTlXAD-wYo](https://www.youtube.com/watch?v=ftTlXAD-wYo) and [https://doi.org/10.5281/zenodo.7120704](https://doi.org/10.5281/zenodo.7120704).
