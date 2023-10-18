@@ -3,9 +3,11 @@ I am the Engineering & Collection Analysis Librarian at [Iowa State University](
 
 In this role, I am subject specialist / liaison to [three](https://www.ece.iastate.edu/) [engineering](https://www.mse.iastate.edu/) [departments](https://www.imse.iastate.edu/) on campus, providing [research help](https://instr.iastate.libguides.com/prf.php?account_id=55135), [instruction](https://instr.iastate.libguides.com/latex), collection development, and outreach.
 
-I also help evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting scientometric analyses of our academic publications to find patterns across campus. I use Dimensions, Web of Science, Altmetrics, Open Refine, Unsub, OpenAlex, Python, pandas, R, and LaTeX to do this work.
+I also work to evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting bibliometric analyses of academic publications to find patterns across our campus and beyond. I use Dimensions, Web of Science, OpenAlex, Unsub, Altmetrics, Open Refine, Python, pandas, R, LaTeX, and Overleaf to do this work.
 
-In 2022, I conducted a [study](https://doi.org/10.1162/qss_a_00237) on the impact of the recently updated OSTP guidance, which will make U.S. federally funded research publicly available by 2026. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of each graph from the article, allowing users to pan, zoom, hover, and explore the data more thoroughly.
+I am also a Visiting Researcher at the [ScholCommLab](https://www.scholcommlab.ca/) at the University of Ottawa, Canada.
+
+In 2022, I conducted a [study](https://doi.org/10.1162/qss_a_00237) on the impact of the recently updated OSTP (Nelson) guidance, which will make U.S. federally funded research publicly available by 2026. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of each graph from the article, allowing users to pan, zoom, hover, and explore the data more thoroughly.
 
 In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data. I published a [paper](https://doi.org/10.1162/qss_a_00200), and the project was honored with the 2022 RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award and the 2022 ASEE ELD [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation). 
 
@@ -15,7 +17,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Consulting
 
-I'm also happy to offer [consulting](mailto:scharesdatascience@gmail.com) work through [Schares Data Science](https://www.scharesdatascience.com/) for academic libraries or publishers who wish to better understand their data.
+I'm happy to offer [consulting](mailto:scharesdatascience@gmail.com) work through [Schares Data Science](https://www.scharesdatascience.com/) for academic libraries and publishers who wish to better understand their data.
 
 ## Publications
 * * *
@@ -32,7 +34,7 @@ I'm also happy to offer [consulting](mailto:scharesdatascience@gmail.com) work t
 - Hornbuckle, B., Togliatti, K., Cirone, R., and **Schares, E.** (2020, June). Be a more productive writer with online LaTeX. _CSA News_, 65(6), 35-38. [https://doi.org/10.1002/csan.20142](https://dr.lib.iastate.edu/handle/20.500.12876/96799).
 - **Schares, E.** (2019). ILL communication: Analyzing five years of Iowa State University’s print Interlibrary Loan requests. _ASEE Annual Conference and Exposition_, Tampa, FL. [https://dr.lib.iastate.edu/handle/20.500.12876/62335](https://dr.lib.iastate.edu/handle/20.500.12876/62335)
 - Evans, P. and **Schares, E.** (2017). FLEx – Iowa State University’s mobile technology classroom.  _ASEE Annual Conference and Exposition_, Columbus, OH. [https://dr.lib.iastate.edu/handle/20.500.12876/62327](https://dr.lib.iastate.edu/handle/20.500.12876/62327)
-- Mielke, N., Marquart, T., Ning, W., Kessenich, J., Belgal, H., **Schares, E.**, . . . Nevill, L. R. (2008, April 27 - May 1). Bit error rate in NAND Flash memories. Paper presented at the Reliability Physics Symposium, 2008. _IRPS 2008_. IEEE International. [http://dx.doi.org/10.1109/RELPHY.2008.4558857](http://dx.doi.org/10.1109/RELPHY.2008.4558857)
+- Mielke, N., Marquart, T., Ning, W., Kessenich, J., Belgal, H., **Schares, E.**, . . . Nevill, L. R. (2008, April 27 - May 1). Bit error rate in NAND Flash memories. Paper presented at the Intel Reliability Physics Symposium, 2008. _IRPS 2008_. IEEE International. [http://dx.doi.org/10.1109/RELPHY.2008.4558857](http://dx.doi.org/10.1109/RELPHY.2008.4558857)
 - Stieler, D., Dalal, V. L., Muthukrishnan, K., Noack, M., & **Schares, E.** (2006). Electron mobility in nanocrystalline silicon devices. _Journal of Applied Physics_, 100(3), 036106. [http://dx.doi.org/10.1063/1.2234545](https://dr.lib.iastate.edu/handle/20.500.12876/20957)
 - Outside Iowa State (2016-2022). April Fools' Day Joke Newsletter, University Library. [http://outsideiowastate.weebly.com/](http://outsideiowastate.weebly.com/)
 
@@ -80,6 +82,7 @@ I'm also happy to offer [consulting](mailto:scharesdatascience@gmail.com) work t
 
 ## Organizations I Work With
 * * *
+- [ScholCommLab](https://www.scholcommlab.ca/)
 - [ASEE ELD](https://sites.asee.org/eld/)
 - [ESAC](https://esac-initiative.org/)
 - [OA2020](https://oa2020.org/)
