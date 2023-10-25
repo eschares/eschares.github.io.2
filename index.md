@@ -1,15 +1,18 @@
 # About Me
-I am the Engineering & Collection Analysis Librarian at [Iowa State University](https://www.iastate.edu/) in Ames, IA.
+I am the Engineering & Collection Analysis Librarian at [Iowa State University](https://www.iastate.edu/) in Ames, IA, and
+a Research Associate at the [ScholCommLab](https://www.scholcommlab.ca/) at the University of Ottawa, Canada.
 
-In this role, I am subject specialist / liaison to [three](https://www.ece.iastate.edu/) [engineering](https://www.mse.iastate.edu/) [departments](https://www.imse.iastate.edu/) on campus, providing [research help](https://instr.iastate.libguides.com/prf.php?account_id=55135), [instruction](https://instr.iastate.libguides.com/latex), collection development, and outreach.
+My research focuses on bibliometrics, scholarly communication, and open science.
+I work to analyze and evaluate publishing trends at Iowa State and beyond to support the overall Open Access transition in scholarly publishing.
+I conduct bibliometric analyses of academic publications to find patterns across campus and inform Iowa State's growing number of Open Access [agreements](https://www.lib.iastate.edu/research-and-teach/publish-and-share/publish-open-access#agreements) with publishers. 
 
-I also work to evaluate and support Iowa State's growing number of [Open Access agreements](https://open.lib.iastate.edu/open-access/agreements) with publishers, conducting bibliometric analyses of academic publications to find patterns across our campus and beyond. I use Dimensions, Web of Science, OpenAlex, Unsub, Altmetrics, Open Refine, Python, pandas, R, LaTeX, and Overleaf to do this work.
+I use Dimensions, Web of Science, OpenAlex, Unsub, Altmetrics, Open Refine, Python, pandas, R, LaTeX, and Overleaf to do this work.
 
-I am also a Visiting Researcher at the [ScholCommLab](https://www.scholcommlab.ca/) at the University of Ottawa, Canada.
-
-In 2022, I conducted a [study](https://doi.org/10.1162/qss_a_00237) on the impact of the recently updated OSTP (Nelson) guidance, which will make U.S. federally funded research publicly available by 2026. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of each graph from the article, allowing users to pan, zoom, hover, and explore the data more thoroughly.
+In 2022, I conducted a [study](https://doi.org/10.1162/qss_a_00237) on the impact of the recently updated OSTP (Nelson) guidance, which will make all U.S. federally funded research publicly available after 2026. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of each graph from the article, allowing users to pan, zoom, hover, and explore the data more thoroughly.
 
 In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data. I published a [paper](https://doi.org/10.1162/qss_a_00200), and the project was honored with the 2022 RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award and the 2022 ASEE ELD [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation). 
+
+I am also subject specialist / liaison to [three](https://www.ece.iastate.edu/) [engineering](https://www.mse.iastate.edu/) [departments](https://www.imse.iastate.edu/) on campus, providing [research help](https://instr.iastate.libguides.com/prf.php?account_id=55135), [instruction](https://instr.iastate.libguides.com/latex), collection development, and outreach.
 
 I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers University. Prior to my current role at Iowa State, I worked at [Intel](https://www.intel.com/) for 10 years as an array reliability engineer on NAND flash memory.
 
@@ -17,7 +20,7 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Consulting
 
-I'm happy to offer [consulting](mailto:scharesdatascience@gmail.com) work through [Schares Data Science](https://www.scharesdatascience.com/) for academic libraries and publishers who wish to better understand their data.
+I'm happy to offer consulting work through [Schares Data Science](https://www.scharesdatascience.com/) for academic libraries, universities, publishers, and journals. Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better understand your data.
 
 ## Publications
 * * *
@@ -80,7 +83,7 @@ I'm happy to offer [consulting](mailto:scharesdatascience@gmail.com) work throug
 - Professional and Scientific Excellence [Award](https://www.provost.iastate.edu/faculty-success/awards/university/staff-awards/professional-and-scientific). (2021). Iowa State University Faculty and Staff Awards Ceremony.
 - [Eric Schares](https://universitymuseums.pubpub.org/pub/yen7pdo1), painting by Rose Frantzen. (2016). University Museums, Iowa State University.
 
-## Organizations I Work With
+## Organizations
 * * *
 - [ScholCommLab](https://www.scholcommlab.ca/)
 - [ASEE ELD](https://sites.asee.org/eld/)
