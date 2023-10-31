@@ -69,6 +69,12 @@ I'm happy to offer consulting work through [Schares Data Science](https://www.sc
 - **Schares, E.** (2019, April). Lightning talk: Adding electronics kits to the library’s circulating collection. _STEM Librarians Unite!_ Drake University, Des Moines, IA.
 - **Schares, E.** (2018, June). ELD lightning talk: Adding electronics kits to the library’s circulating collection. _American Society of Engineering Education, Engineering Libraries Division_. Annual Conference, Salt Lake City, UT.
 
+## Peer Reviewing
+* * *
+- Quantitative Science Studies ([QSS](https://direct.mit.edu/qss))
+- American Society for Engineering Education, Engineering Libraries Division ([ASEE ELD](https://sites.asee.org/eld/))
+- Journal of Open Educational Resources in Higher Education ([JOERHE](https://journals.uwyo.edu/index.php/joerhe))
+
 ## Research Workshops
 * * *
 - Science of Science Summer School [(S4)](https://s4.scienceofscience.org/). Syracuse University. August 1-12, 2022. Live course, online.
