@@ -1,5 +1,5 @@
 # About Me
-I am the Engineering & Collection Analysis Librarian at [Iowa State University](https://www.iastate.edu/) in Ames, IA, and a Research Associate at the [ScholCommLab](https://www.scholcommlab.ca/) at the University of Ottawa, Canada.
+I am the Engineering & Collection Analysis Librarian at [Iowa State University](https://www.iastate.edu/) in Ames, IA, and a Research Associate affiliated with the [ScholCommLab](https://www.scholcommlab.ca/) at the University of Ottawa, Canada.
 
 My research focuses on bibliometrics, scholarly communication, and open science.
 I work to analyze and evaluate publishing trends at Iowa State and beyond to support the overall Open Access transition in scholarly publishing.
