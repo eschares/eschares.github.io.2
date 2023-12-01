@@ -1,4 +1,4 @@
-# eschares.github.io
+# eschares.github.io using minimalist theme
 
 Webpage to organize my work.
 
